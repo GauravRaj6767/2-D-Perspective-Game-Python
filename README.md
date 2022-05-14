@@ -1,2 +1,3 @@
 # 3-D-Perspective-Game-Python
-3D perspective game(runner continuous) using Python and Tkinter Framework Python
+3D perspective game(runner continuous) using Python and Tkinter Framework Python.
+Learning Project using Tkinter and Python
